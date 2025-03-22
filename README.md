@@ -12,6 +12,7 @@ Each square has a different power :
 
  # How to play:
 Go in release and just launch the game
+
 Here is the game on Itch.io : https://toma-oak.itch.io/one-wheel-for-squares
 
 ![Capture d'écran 2024-03-08 125147](https://github.com/user-attachments/assets/06101110-be37-47d4-aa4e-4854bd9e481a)
